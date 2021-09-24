@@ -22,6 +22,6 @@ public class CarTest {
         System.out.println(mustangBoss.instantVelocity);
         delorean.decelerate();
         System.out.println(delorean.instantVelocity);
-        
+
     }
 }
